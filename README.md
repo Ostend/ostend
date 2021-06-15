@@ -1,7 +1,13 @@
 ### Stephanie Mennear
 
-[![Ostends's github stats](https://github-readme-stats.vercel.app/api?username=ostend&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ostend&hide=html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ostend&count_private=true&show_icons=true&theme=radical&hide_rank=false" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ostend&hide=html&theme=radical" />
+</a>
+
 <!--
 **Ostend/ostend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Ostends's github stats](https://github-readme-stats.vercel.app/api?username=ostend&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ostend&hide=html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
